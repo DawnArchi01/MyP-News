@@ -6,7 +6,7 @@ import React, { Component } from 'react'
 import News from './components/News';
 // import PropTypes from 'prop-types'
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Switch,
   Route,
 } from "react-router-dom";
